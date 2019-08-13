@@ -12,3 +12,6 @@ Portfolio of data science projects completed by me for self learning and hobby p
     - [Exploring Hackers News posts](Python_DA_and_viz/Hacker_noon_news_Project.ipynb): In this project, comparing two different types of posts from Hacker News, a popular site where technology related stories (or 'posts') are voted and commented upon.
     
     - [Profitable mobile app profiles for IOS and Google Play markets](Python_DA_and_viz/IOS-GooglePlay-Profitable-Apps.ipynb): The aim in this project is to find mobile app profiles that are profitable for the App Store and Google Play markets
+
+
+*Tools: Numpy, Pandas, Seaborn and Matplotlib*
