@@ -3,6 +3,7 @@ Portfolio of data science projects completed by me for self learning and hobby p
 
 - ## Data Analysis & Visualization
   - ### Python
+    - [TAFE Employee exit surveys](Python_DA_and_viz/TAFE_employee_exit_surveys.ipynb): In this project, we'll work with exit surveys from employees of the Department of Education, Training and Employment (DETE) and the Technical and Further Education (TAFE) institute in Queensland, Australia.
     - [Visualizing The Gender Gap](Python_DA_and_viz/Visualizing_The_Gender_Gap.ipynb): Visualizing The Gender Gap In College Degrees 
     
     - [Visualizing earnings based on college Majors](Python_DA_and_viz/Visualizing_college_grands_earnings.ipynb): In this project, we'll be working with a dataset on the job outcomes of students who graduated from college between 2010 and 2012. The original data on job outcomes was released by American Community Survey
