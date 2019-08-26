@@ -5,6 +5,7 @@ Portfolio of data science projects completed by me for self learning and hobby p
   - ### Python
     - [Analyzing NYC High School Data](Python_DA_and_viz/Analyzing_NYC_High_School_Data/Analyzing_NYC_High_School_Data.ipynb): In this project, we explore relationships between SAT scores and demographic factors in New York City public schools.Performing data cleaning and pre-processing before analysing different factors impacting SAT scores.
     - [TAFE Employee exit surveys](Python_DA_and_viz/TAFE_employee_exit_surveys.ipynb): In this project, we'll work with exit surveys from employees of the Department of Education, Training and Employment (DETE) and the Technical and Further Education (TAFE) institute in Queensland, Australia.
+    - [Starwars Survey](Python_DA_and_viz/Starwars_survey/Starwars_survey.ipynb): Analysing data to answer some of the critical questions like "does the rest of America realize that “The Empire Strikes Back” is clearly the best of the franchise?"
     - [Visualizing The Gender Gap](Python_DA_and_viz/Visualizing_The_Gender_Gap.ipynb): Visualizing The Gender Gap In College Degrees 
     
     - [Visualizing earnings based on college Majors](Python_DA_and_viz/Visualizing_college_grands_earnings.ipynb): In this project, we'll be working with a dataset on the job outcomes of students who graduated from college between 2010 and 2012. The original data on job outcomes was released by American Community Survey
