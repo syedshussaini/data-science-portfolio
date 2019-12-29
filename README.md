@@ -2,6 +2,7 @@
 Portfolio of data science projects completed by me for self learning and hobby purposes.
 - ## Machine Learning
   - ### Logistic Regression
+    - [Predicting website's user interaction using Logistic Regression](Machine_learning_projects/Websites_User_interaction_prediction/Websites_User_interaction_prediction.ipynb): Using Logistic Regression model that will predict whether or not they will click on an ad based off the features of that user.
     - [Titanic Survival Preduction using Logistic Regression](Machine_learning_projects/Titanic_survival_Logistic_regression/Titanic_survival_prediction_logistic_regression.ipynb): Applying Logistic regression model to the famous challenge on Kaggle.com to predict the survival rate of the passengers abourd the Titanic.
 - ## Data Analysis & Visualization
   - ### Python
