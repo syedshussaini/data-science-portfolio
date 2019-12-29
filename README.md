@@ -1,6 +1,8 @@
 # Data Science Portfolio
 Portfolio of data science projects completed by me for self learning and hobby purposes.
-
+- ## Machine Learning
+  - ### Logistic Regression
+    - [Titanic Survival Preduction using Logistic Regression](Machine_learning_projects/Titanic_survival_Logistic_regression/Titanic_survival_prediction_logistic_regression.ipynb): Applying Logistic regression model to the famous challenge on Kaggle.com to predict the survival rate of the passengers abourd the Titanic.
 - ## Data Analysis & Visualization
   - ### Python
     - [Analyzing NYC High School Data](Python_DA_and_viz/Analyzing_NYC_High_School_Data/Analyzing_NYC_High_School_Data.ipynb): In this project, we explore relationships between SAT scores and demographic factors in New York City public schools.Performing data cleaning and pre-processing before analysing different factors impacting SAT scores.
